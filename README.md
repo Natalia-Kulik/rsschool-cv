@@ -1,3 +1,3 @@
-https://Natalia-Kulik.github.io/rsschool-cv/cv.md
+https://Natalia-Kulik.github.io/rsschool-cv/cv
 
-https://github.com/Natalia-Kulik/rsschool-cv/blob/rsschool-cv-html/index.html
+https://Natalia-Kulik.github.io/rsschool-cv/
